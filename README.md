@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&idx=3&height=180&section=header&text=Welcome%20to%20my%20GitHub%20&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20my%20GitHub%20&fontSize=60&fontColor=ffffff)
 
 ## :star:Introduce
 デザインに興味があるジュニアフロントエンドエンジニアです。
