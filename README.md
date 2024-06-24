@@ -5,6 +5,5 @@
 
 ## 🎨Design
 - SNSサイト(2023年)
-
 https://www.figma.com/file/uOQYPjz9f0PM8DQiNIjL6I/Universal%EF%BC%88SNS%EF%BC%89?type=design&node-id=906-2&mode=design
 
