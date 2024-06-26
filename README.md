@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:004FF9,100:FFF94C&height=180&section=header&text=Welcome%20to%20my%20GitHub%20&fontSize=60&fontColor=ffffff)
 
 ## :star:Introduce
+I'm a junior front-end engineer with an interest in design.
+
 デザインに興味があるジュニアフロントエンドエンジニアです。
 
 ## 🔨Tech Stack
